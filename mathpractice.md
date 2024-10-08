@@ -28,14 +28,18 @@ This version, $\varepsilon$, should be prettier.
 
 State space $\Omega$, particular state $\omega$
 
-# Matrices
+#Matricies
 
-A vector of prices:
+$$\begin{bmatrix}
+e^{2x} & sin(y) \\
+2e^{2x} & cos(y)
+\end{bmatrix}$$
 
-$$
-p = \begin{pmatrix}
-p_1 \\
-p_2 \\
-p_3
-\end{pmatrix}
-$$
+#Equation Systems & Functions
+
+$$\begin{align}
+2(x-3)^2 +& (y+1)^2 =& 24 \\
+3x &=& 2y
+\end{align}$$
+
+$$\case
