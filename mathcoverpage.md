@@ -1,12 +1,5 @@
-# The Euler Identity
+# Special Relativity
 
-$$e^{i\pi} + 1 = 0$$
+$$t' = t \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$$
 
-This elegant equation, known as Euler's Identity, connects five fundamental mathematical constants:
-- $e$ (Euler's number)
-- $i$ (the imaginary unit)
-- $\pi$ (pi)
-- 1 (the multiplicative identity)
-- 0 (the additive identity)
-
-It's often regarded as one of the most beautiful equations in mathematics, showing a deep connection between exponential functions and trigonometry, as $e^{i\pi} = \cos(\pi) + i\sin(\pi) = -1$.
+Einstein's briliance is shown here, where he proves that time and space are directly related. Time dialates (slows down) as an object's velocity increases.
